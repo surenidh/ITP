@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pymysql" />
+          <option value="mysqlclient" />
+          <option value="sample" />
+          <option value="my_django_app.hello.models.*" />
+          <option value="my_django_app.hello.admin.hello" />
+          <option value="my_django_app.hello.views.request" />
+          <option value="my_django_app.hello.views.hello" />
+          <option value="my_django_app.my_django_app.urls.hello" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
